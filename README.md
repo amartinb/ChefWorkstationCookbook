@@ -1,4 +1,6 @@
-# workstation
+# Workstation
 
-TODO: Enter the cookbook description here.
+##Cookbook de curso Chef
+
+amartinb, Jun 16
 
